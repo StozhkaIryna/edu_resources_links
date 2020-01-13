@@ -64,3 +64,6 @@
 
 ## Freecodecamp
 * https://www.freecodecamp.org/
+
+## HTML Recourse /типы, синтаксис.../
+https://webref.ru/html/type/object - ресурс!!!!
