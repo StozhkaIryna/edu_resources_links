@@ -66,4 +66,71 @@
 * https://www.freecodecamp.org/
 
 ## HTML Recourse /типы, синтаксис.../
-https://webref.ru/html/type/object - ресурс!!!!
+* https://webref.ru/html/type/object 
+
+## Объектно-ориентированное программирование  
+* https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
+
+## Советы по работе с GidHub    
+* https://telegra.ph/SHest-sovetov-po-rabote-s-Git-12-20
+
+## Руководство по работе с Jira  
+* https://www.atlassian.com/ru/software/jira/guides/getting-started/basics#step-1-create-a-project
+
+## BackEnd ссылка на уроки \из лекции \
+* https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q&index=1
+
+## Node.js v13.6.0 Documentation  
+* https://nodejs.org/api/assert.html#assert_class_assert_assertionerror
+
+## JavaScript testing  
+* https://www.youtube.com/watch?v=4Fl5GH4eYZ8
+
+## 7 Popular Unit Test Naming Conventions 
+* https://dzone.com/articles/7-popular-unit-test-naming
+
+## Naming standards for unit tests 
+* https://osherove.com/blog/2005/4/3/naming-standards-for-unit-tests.html
+
+## Unit tests why we use it  
+* https://www.youtube.com/watch?v=iWtxEDE1IR4      
+
+## Intro To JavaScript Unit Testing With Mocha JS & Chai  
+* https://www.youtube.com/watch?v=MLTRHc5dk6s
+
+## Mocha installation  
+* https://mochajs.org/#installation
+
+## Chai installation  
+* https://www.chaijs.com/
+
+## HTML  
+* http://htmlbook.ru/    
+* https://webref.ru/course/html-tutorial/introduction
+
+## Atom.io  
+* https://atom.io/
+
+## Webdriver.io 
+* https://webdriver.io/docs/gettingstarted.html
+
+## Cypress.io  
+* https://www.cypress.io/
+
+## CSS Tutorial // Grid HTML  
+* https://www.w3schools.com/css/default.asp
+
+## Links for HTML lessons 
+* https://youtu.be/t6AyNcZ6KBM
+* https://youtu.be/1mDXb6dbZS4
+* https://youtu.be/qfB9DrmPez4
+* https://youtu.be/qkBg0mNV_K0
+* https://youtu.be/uzpXWTWMvnU
+* https://youtu.be/f3jlkqsUpJ4
+* https://youtu.be/3zZL98p9hc8
+* https://youtu.be/MIg5nxGtA6s
+
+## Ajile & Scrum 
+* https://www.youtube.com/watch?v=gj_UUqFZA0U&list=PLKjhrg62X-w_tZQTFJN-HvAIF_AcjsmQp 
+* https://www.youtube.com/watch?v=lYp_OYscUDQ
+* https://youtu.be/cDvZaXzQezs
