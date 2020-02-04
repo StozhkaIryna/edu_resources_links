@@ -134,3 +134,6 @@
 * https://www.youtube.com/watch?v=gj_UUqFZA0U&list=PLKjhrg62X-w_tZQTFJN-HvAIF_AcjsmQp 
 * https://www.youtube.com/watch?v=lYp_OYscUDQ
 * https://youtu.be/cDvZaXzQezs
+
+## Chai / Mocha / Utest
+* https://www.sitepoint.com/unit-test-javascript-mocha-chai/
