@@ -138,3 +138,12 @@
 ## Chai / Mocha / Utest
 * https://www.sitepoint.com/unit-test-javascript-mocha-chai/
 
+## 24+ Sample Project Documentation Templates
+* https://www.template.net/business/project-templates/sample-project-documentation/
+
+## Professional resource to create your profile
+* https://www.vettery.com/
+
+## Work Smarter With Jira and Smartsheet
+* https://www.smartsheet.com/how-create-jira-workflow-works-you
+
