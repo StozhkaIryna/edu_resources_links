@@ -147,3 +147,9 @@
 ## Work Smarter With Jira and Smartsheet
 * https://www.smartsheet.com/how-create-jira-workflow-works-you
 
+## Selenium Tutorial
+* https://www.javatpoint.com/selenium-tutorial
+
+## Data Structure and Algorithms Tutorial
+* https://www.tutorialspoint.com/data_structures_algorithms/index.htm
+
