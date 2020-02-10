@@ -174,3 +174,5 @@
 ## Краткое руководство по ООП в JS
 * https://medium.com/nuances-of-programming/%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%BE%D0%B5-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%BF%D0%BE-%D0%BE%D0%BE%D0%BF-%D0%B2-js-1f54f9d50067
 
+## $ npm install cypress
+* https://www.cypress.io/
