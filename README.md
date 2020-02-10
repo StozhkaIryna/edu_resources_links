@@ -138,6 +138,9 @@
 ## Chai / Mocha / Utest
 * https://www.sitepoint.com/unit-test-javascript-mocha-chai/
 
+## Unit Test Your JavaScript Using Mocha and Chai
+* https://www.sitepoint.com/unit-test-javascript-mocha-chai/
+
 ## 24+ Sample Project Documentation Templates
 * https://www.template.net/business/project-templates/sample-project-documentation/
 
@@ -152,4 +155,13 @@
 
 ## Data Structure and Algorithms Tutorial
 * https://www.tutorialspoint.com/data_structures_algorithms/index.htm
+
+## CSS Selector Strategies for Automated Browser Testing
+* https://ghostinspector.com/blog/css-selector-strategies-automated-browser-testing/
+
+## Xpath cheatsheet
+* https://devhints.io/xpath
+
+## Converter XPATH to XSS and backwards 
+* https://css2xpath.github.io/
 
