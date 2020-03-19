@@ -189,3 +189,19 @@
 
 ## Top Manual Testing Interview Questions and Answers
 * https://intellipaat.com/blog/interview-question/manual-testing-interview-questions/
+
+## TDD vs BDD – What’s the Difference Between TDD and BDD?
+* https://blog.testlodge.com/tdd-vs-bdd/
+
+## cypress / Stop using Page Objects and Start using App Actions 
+* https://www.cypress.io/blog/2019/01/03/stop-using-page-objects-and-start-using-app-actions/
+
+
+
+
+
+
+
+
+
+
