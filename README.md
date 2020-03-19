@@ -186,3 +186,6 @@
 
 ## TestNG Interview Questions and Answers || TestNG Framework Interview Questions
 * https://www.youtube.com/watch?v=_RwrCqh0hBk
+
+## Top Manual Testing Interview Questions and Answers
+* https://intellipaat.com/blog/interview-question/manual-testing-interview-questions/
