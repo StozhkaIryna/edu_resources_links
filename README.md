@@ -196,6 +196,15 @@
 ## cypress / Stop using Page Objects and Start using App Actions 
 * https://www.cypress.io/blog/2019/01/03/stop-using-page-objects-and-start-using-app-actions/
 
+## What is a Defect Life Cycle or a Bug lifecycle in software testing?
+*http://tryqa.com/what-is-a-defect-life-cycle/
+
+## IO / HTML Reporter
+* https://webdriver.io/docs/rpii-wdio-html-reporter.html
+
+## IO / JSON Wire Protocol
+* https://webdriver.io/docs/api/jsonwp.html#executeasyncscript
+
 
 
 
