@@ -180,4 +180,6 @@
 ## Introduction to Postman for API Development
 * https://www.geeksforgeeks.org/introduction-postman-api-development/
 
-
+## Об этом курсе
+## Master SQL and Become Job Ready as a SQL Developer by Working Hands-On Querying a Relational Database 
+* https://www.udemy.com/course/sql-the-query-writing-bootcamp/learn/lecture/14718768?start=0#overview
