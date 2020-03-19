@@ -183,3 +183,6 @@
 ## Об этом курсе
 ## Master SQL and Become Job Ready as a SQL Developer by Working Hands-On Querying a Relational Database 
 * https://www.udemy.com/course/sql-the-query-writing-bootcamp/learn/lecture/14718768?start=0#overview
+
+## TestNG Interview Questions and Answers || TestNG Framework Interview Questions
+* https://www.youtube.com/watch?v=_RwrCqh0hBk
