@@ -180,6 +180,8 @@
 ## Introduction to Postman for API Development
 * https://www.geeksforgeeks.org/introduction-postman-api-development/
 
+# MART 2020 / second part
+
 ## Об этом курсе
 ## Master SQL and Become Job Ready as a SQL Developer by Working Hands-On Querying a Relational Database 
 * https://www.udemy.com/course/sql-the-query-writing-bootcamp/learn/lecture/14718768?start=0#overview
@@ -204,6 +206,21 @@
 
 ## IO / JSON Wire Protocol
 * https://webdriver.io/docs/api/jsonwp.html#executeasyncscript
+
+## Практическое владение языком SQL / Ресурс на попрактиковаться
+* http://www.sql-ex.ru/?Lang=0
+* http://www.sql-ex.ru/learn_exercises.php
+
+##  API Testing / Fast course
+* https://automationtalks.com/api-testing-learn-api-testing-60-minutes/
+
+## What is a RESTful API? | Creating a REST API with Node.js
+* https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q&index=1
+
+## Doc TestCasesSimpleCounter #1
+* https://docs.google.com/spreadsheets/d/1vp3x3xoy0repagB_9DaGUfB_eQhZ11COuVNNVL8sroU/edit#gid=1948005648
+
+
 
 
 
